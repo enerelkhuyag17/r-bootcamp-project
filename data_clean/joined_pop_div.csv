@@ -1,0 +1,1081 @@
+"year","canton","sex","marital_status","population","divorces"
+2020,"Switzerland","Male","Single",2075953,16210
+2020,"Switzerland","Male","Married, in a registered partnership",1826039,16210
+2020,"Switzerland","Male","Widowed, partnership dissolved through death",80680,16210
+2020,"Switzerland","Male","Divorced, unmarried, partnership dissolved legally",319535,16210
+2020,"Switzerland","Female","Single",1827380,16210
+2020,"Switzerland","Female","Married, in a registered partnership",1781877,16210
+2020,"Switzerland","Female","Widowed, partnership dissolved through death",323273,16210
+2020,"Switzerland","Female","Divorced, unmarried, partnership dissolved legally",434851,16210
+2020,"Zürich","Male","Single",389240,2823
+2020,"Zürich","Male","Married, in a registered partnership",316868,2823
+2020,"Zürich","Male","Widowed, partnership dissolved through death",12873,2823
+2020,"Zürich","Male","Divorced, unmarried, partnership dissolved legally",55237,2823
+2020,"Zürich","Female","Single",342836,2823
+2020,"Zürich","Female","Married, in a registered partnership",307127,2823
+2020,"Zürich","Female","Widowed, partnership dissolved through death",49510,2823
+2020,"Zürich","Female","Divorced, unmarried, partnership dissolved legally",79599,2823
+2020,"Bern / Berne","Male","Single",242380,2015
+2020,"Bern / Berne","Male","Married, in a registered partnership",219638,2015
+2020,"Bern / Berne","Male","Widowed, partnership dissolved through death",11132,2015
+2020,"Bern / Berne","Male","Divorced, unmarried, partnership dissolved legally",39042,2015
+2020,"Bern / Berne","Female","Single",217144,2015
+2020,"Bern / Berne","Female","Married, in a registered partnership",216456,2015
+2020,"Bern / Berne","Female","Widowed, partnership dissolved through death",43809,2015
+2020,"Bern / Berne","Female","Divorced, unmarried, partnership dissolved legally",53328,2015
+2020,"Luzern","Male","Single",102005,723
+2020,"Luzern","Male","Married, in a registered partnership",89089,723
+2020,"Luzern","Male","Widowed, partnership dissolved through death",3704,723
+2020,"Luzern","Male","Divorced, unmarried, partnership dissolved legally",12772,723
+2020,"Luzern","Female","Single",89090,723
+2020,"Luzern","Female","Married, in a registered partnership",87440,723
+2020,"Luzern","Female","Widowed, partnership dissolved through death",15042,723
+2020,"Luzern","Female","Divorced, unmarried, partnership dissolved legally",17187,723
+2020,"Uri","Male","Single",8803,48
+2020,"Uri","Male","Married, in a registered partnership",8621,48
+2020,"Uri","Male","Widowed, partnership dissolved through death",392,48
+2020,"Uri","Male","Divorced, unmarried, partnership dissolved legally",952,48
+2020,"Uri","Female","Single",7018,48
+2020,"Uri","Female","Married, in a registered partnership",8376,48
+2020,"Uri","Female","Widowed, partnership dissolved through death",1573,48
+2020,"Uri","Female","Divorced, unmarried, partnership dissolved legally",1084,48
+2020,"Schwyz","Male","Single",38830,314
+2020,"Schwyz","Male","Married, in a registered partnership",36418,314
+2020,"Schwyz","Male","Widowed, partnership dissolved through death",1489,314
+2020,"Schwyz","Male","Divorced, unmarried, partnership dissolved legally",6368,314
+2020,"Schwyz","Female","Single",31626,314
+2020,"Schwyz","Female","Married, in a registered partnership",34846,314
+2020,"Schwyz","Female","Widowed, partnership dissolved through death",5659,314
+2020,"Schwyz","Female","Divorced, unmarried, partnership dissolved legally",6913,314
+2020,"Obwalden","Male","Single",9059,58
+2020,"Obwalden","Male","Married, in a registered partnership",8619,58
+2020,"Obwalden","Male","Widowed, partnership dissolved through death",357,58
+2020,"Obwalden","Male","Divorced, unmarried, partnership dissolved legally",1231,58
+2020,"Obwalden","Female","Single",7649,58
+2020,"Obwalden","Female","Married, in a registered partnership",8375,58
+2020,"Obwalden","Female","Widowed, partnership dissolved through death",1451,58
+2020,"Obwalden","Female","Divorced, unmarried, partnership dissolved legally",1364,58
+2020,"Nidwalden","Male","Single",10424,62
+2020,"Nidwalden","Male","Married, in a registered partnership",9694,62
+2020,"Nidwalden","Male","Widowed, partnership dissolved through death",433,62
+2020,"Nidwalden","Male","Divorced, unmarried, partnership dissolved legally",1742,62
+2020,"Nidwalden","Female","Single",8321,62
+2020,"Nidwalden","Female","Married, in a registered partnership",9401,62
+2020,"Nidwalden","Female","Widowed, partnership dissolved through death",1615,62
+2020,"Nidwalden","Female","Divorced, unmarried, partnership dissolved legally",1884,62
+2020,"Glarus","Male","Single",9473,62
+2020,"Glarus","Male","Married, in a registered partnership",9137,62
+2020,"Glarus","Male","Widowed, partnership dissolved through death",430,62
+2020,"Glarus","Male","Divorced, unmarried, partnership dissolved legally",1584,62
+2020,"Glarus","Female","Single",7709,62
+2020,"Glarus","Female","Married, in a registered partnership",8797,62
+2020,"Glarus","Female","Widowed, partnership dissolved through death",1855,62
+2020,"Glarus","Female","Divorced, unmarried, partnership dissolved legally",1864,62
+2020,"Zug","Male","Single",30268,218
+2020,"Zug","Male","Married, in a registered partnership",29257,218
+2020,"Zug","Male","Widowed, partnership dissolved through death",1074,218
+2020,"Zug","Male","Divorced, unmarried, partnership dissolved legally",4624,218
+2020,"Zug","Female","Single",26227,218
+2020,"Zug","Female","Married, in a registered partnership",27900,218
+2020,"Zug","Female","Widowed, partnership dissolved through death",3930,218
+2020,"Zug","Female","Divorced, unmarried, partnership dissolved legally",5509,218
+2020,"Fribourg / Freiburg","Male","Single",80593,599
+2020,"Fribourg / Freiburg","Male","Married, in a registered partnership",67579,599
+2020,"Fribourg / Freiburg","Male","Widowed, partnership dissolved through death",2689,599
+2020,"Fribourg / Freiburg","Male","Divorced, unmarried, partnership dissolved legally",12138,599
+2020,"Fribourg / Freiburg","Female","Single",70576,599
+2020,"Fribourg / Freiburg","Female","Married, in a registered partnership",65950,599
+2020,"Fribourg / Freiburg","Female","Widowed, partnership dissolved through death",10873,599
+2020,"Fribourg / Freiburg","Female","Divorced, unmarried, partnership dissolved legally",15124,599
+2020,"Solothurn","Male","Single",63384,496
+2020,"Solothurn","Male","Married, in a registered partnership",61145,496
+2020,"Solothurn","Male","Widowed, partnership dissolved through death",3004,496
+2020,"Solothurn","Male","Divorced, unmarried, partnership dissolved legally",11076,496
+2020,"Solothurn","Female","Single",53832,496
+2020,"Solothurn","Female","Married, in a registered partnership",59817,496
+2020,"Solothurn","Female","Widowed, partnership dissolved through death",11089,496
+2020,"Solothurn","Female","Divorced, unmarried, partnership dissolved legally",14080,496
+2020,"Basel-Stadt","Male","Single",49650,378
+2020,"Basel-Stadt","Male","Married, in a registered partnership",36352,378
+2020,"Basel-Stadt","Male","Widowed, partnership dissolved through death",1956,378
+2020,"Basel-Stadt","Male","Divorced, unmarried, partnership dissolved legally",7651,378
+2020,"Basel-Stadt","Female","Single",46430,378
+2020,"Basel-Stadt","Female","Married, in a registered partnership",35105,378
+2020,"Basel-Stadt","Female","Widowed, partnership dissolved through death",8030,378
+2020,"Basel-Stadt","Female","Divorced, unmarried, partnership dissolved legally",11541,378
+2020,"Basel-Landschaft","Male","Single",62996,552
+2020,"Basel-Landschaft","Male","Married, in a registered partnership",66101,552
+2020,"Basel-Landschaft","Male","Widowed, partnership dissolved through death",3381,552
+2020,"Basel-Landschaft","Male","Divorced, unmarried, partnership dissolved legally",10285,552
+2020,"Basel-Landschaft","Female","Single",55585,552
+2020,"Basel-Landschaft","Female","Married, in a registered partnership",65308,552
+2020,"Basel-Landschaft","Female","Widowed, partnership dissolved through death",12442,552
+2020,"Basel-Landschaft","Female","Divorced, unmarried, partnership dissolved legally",14862,552
+2020,"Schaffhausen","Male","Single",18528,151
+2020,"Schaffhausen","Male","Married, in a registered partnership",18599,151
+2020,"Schaffhausen","Male","Widowed, partnership dissolved through death",889,151
+2020,"Schaffhausen","Male","Divorced, unmarried, partnership dissolved legally",3144,151
+2020,"Schaffhausen","Female","Single",15691,151
+2020,"Schaffhausen","Female","Married, in a registered partnership",18242,151
+2020,"Schaffhausen","Female","Widowed, partnership dissolved through death",3653,151
+2020,"Schaffhausen","Female","Divorced, unmarried, partnership dissolved legally",4355,151
+2020,"Appenzell Ausserrhoden","Male","Single",12878,102
+2020,"Appenzell Ausserrhoden","Male","Married, in a registered partnership",12157,102
+2020,"Appenzell Ausserrhoden","Male","Widowed, partnership dissolved through death",563,102
+2020,"Appenzell Ausserrhoden","Male","Divorced, unmarried, partnership dissolved legally",2284,102
+2020,"Appenzell Ausserrhoden","Female","Single",10682,102
+2020,"Appenzell Ausserrhoden","Female","Married, in a registered partnership",11932,102
+2020,"Appenzell Ausserrhoden","Female","Widowed, partnership dissolved through death",2204,102
+2020,"Appenzell Ausserrhoden","Female","Divorced, unmarried, partnership dissolved legally",2607,102
+2020,"Appenzell Innerrhoden","Male","Single",4135,32
+2020,"Appenzell Innerrhoden","Male","Married, in a registered partnership",3571,32
+2020,"Appenzell Innerrhoden","Male","Widowed, partnership dissolved through death",168,32
+2020,"Appenzell Innerrhoden","Male","Divorced, unmarried, partnership dissolved legally",487,32
+2020,"Appenzell Innerrhoden","Female","Single",3261,32
+2020,"Appenzell Innerrhoden","Female","Married, in a registered partnership",3473,32
+2020,"Appenzell Innerrhoden","Female","Widowed, partnership dissolved through death",681,32
+2020,"Appenzell Innerrhoden","Female","Divorced, unmarried, partnership dissolved legally",517,32
+2020,"St. Gallen","Male","Single",121999,927
+2020,"St. Gallen","Male","Married, in a registered partnership",112776,927
+2020,"St. Gallen","Male","Widowed, partnership dissolved through death",4854,927
+2020,"St. Gallen","Male","Divorced, unmarried, partnership dissolved legally",18464,927
+2020,"St. Gallen","Female","Single",102464,927
+2020,"St. Gallen","Female","Married, in a registered partnership",110204,927
+2020,"St. Gallen","Female","Widowed, partnership dissolved through death",19385,927
+2020,"St. Gallen","Female","Divorced, unmarried, partnership dissolved legally",24322,927
+2020,"Graubünden / Grigioni / Grischun","Male","Single",45818,327
+2020,"Graubünden / Grigioni / Grischun","Male","Married, in a registered partnership",44622,327
+2020,"Graubünden / Grigioni / Grischun","Male","Widowed, partnership dissolved through death",2212,327
+2020,"Graubünden / Grigioni / Grischun","Male","Divorced, unmarried, partnership dissolved legally",7633,327
+2020,"Graubünden / Grigioni / Grischun","Female","Single",39339,327
+2020,"Graubünden / Grigioni / Grischun","Female","Married, in a registered partnership",42768,327
+2020,"Graubünden / Grigioni / Grischun","Female","Widowed, partnership dissolved through death",8507,327
+2020,"Graubünden / Grigioni / Grischun","Female","Divorced, unmarried, partnership dissolved legally",9190,327
+2020,"Aargau","Male","Single",161379,1205
+2020,"Aargau","Male","Married, in a registered partnership",155888,1205
+2020,"Aargau","Male","Widowed, partnership dissolved through death",6486,1205
+2020,"Aargau","Male","Divorced, unmarried, partnership dissolved legally",25034,1205
+2020,"Aargau","Female","Single",136635,1205
+2020,"Aargau","Female","Married, in a registered partnership",152032,1205
+2020,"Aargau","Female","Widowed, partnership dissolved through death",24198,1205
+2020,"Aargau","Female","Divorced, unmarried, partnership dissolved legally",32370,1205
+2020,"Thurgau","Male","Single",65444,497
+2020,"Thurgau","Male","Married, in a registered partnership",63412,497
+2020,"Thurgau","Male","Widowed, partnership dissolved through death",2619,497
+2020,"Thurgau","Male","Divorced, unmarried, partnership dissolved legally",11047,497
+2020,"Thurgau","Female","Single",54921,497
+2020,"Thurgau","Female","Married, in a registered partnership",61806,497
+2020,"Thurgau","Female","Widowed, partnership dissolved through death",10011,497
+2020,"Thurgau","Female","Divorced, unmarried, partnership dissolved legally",13640,497
+2020,"Ticino","Male","Single",78888,687
+2020,"Ticino","Male","Married, in a registered partnership",75190,687
+2020,"Ticino","Male","Widowed, partnership dissolved through death",3833,687
+2020,"Ticino","Male","Divorced, unmarried, partnership dissolved legally",12916,687
+2020,"Ticino","Female","Single",70895,687
+2020,"Ticino","Female","Married, in a registered partnership",73309,687
+2020,"Ticino","Female","Widowed, partnership dissolved through death",17412,687
+2020,"Ticino","Female","Divorced, unmarried, partnership dissolved legally",18536,687
+2020,"Vaud","Male","Single",204181,1590
+2020,"Vaud","Male","Married, in a registered partnership",160135,1590
+2020,"Vaud","Male","Widowed, partnership dissolved through death",6236,1590
+2020,"Vaud","Male","Divorced, unmarried, partnership dissolved legally",29610,1590
+2020,"Vaud","Female","Single",186275,1590
+2020,"Vaud","Female","Married, in a registered partnership",157399,1590
+2020,"Vaud","Female","Widowed, partnership dissolved through death",27678,1590
+2020,"Vaud","Female","Divorced, unmarried, partnership dissolved legally",43157,1590
+2020,"Valais / Wallis","Male","Single",80177,704
+2020,"Valais / Wallis","Male","Married, in a registered partnership",75186,704
+2020,"Valais / Wallis","Male","Widowed, partnership dissolved through death",3571,704
+2020,"Valais / Wallis","Male","Divorced, unmarried, partnership dissolved legally",14000,704
+2020,"Valais / Wallis","Female","Single",70604,704
+2020,"Valais / Wallis","Female","Married, in a registered partnership",73133,704
+2020,"Valais / Wallis","Female","Widowed, partnership dissolved through death",14884,704
+2020,"Valais / Wallis","Female","Divorced, unmarried, partnership dissolved legally",16907,704
+2020,"Neuchâtel","Male","Single",42420,375
+2020,"Neuchâtel","Male","Married, in a registered partnership",34063,375
+2020,"Neuchâtel","Male","Widowed, partnership dissolved through death",1811,375
+2020,"Neuchâtel","Male","Divorced, unmarried, partnership dissolved legally",7887,375
+2020,"Neuchâtel","Female","Single",37481,375
+2020,"Neuchâtel","Female","Married, in a registered partnership",33596,375
+2020,"Neuchâtel","Female","Widowed, partnership dissolved through death",7651,375
+2020,"Neuchâtel","Female","Divorced, unmarried, partnership dissolved legally",10981,375
+2020,"Genève","Male","Single",125489,1086
+2020,"Genève","Male","Married, in a registered partnership",96774,1086
+2020,"Genève","Male","Widowed, partnership dissolved through death",3700,1086
+2020,"Genève","Male","Divorced, unmarried, partnership dissolved legally",19339,1086
+2020,"Genève","Female","Single",120192,1086
+2020,"Genève","Female","Married, in a registered partnership",94099,1086
+2020,"Genève","Female","Widowed, partnership dissolved through death",16501,1086
+2020,"Genève","Female","Divorced, unmarried, partnership dissolved legally",30213,1086
+2020,"Jura","Male","Single",17512,179
+2020,"Jura","Male","Married, in a registered partnership",15148,179
+2020,"Jura","Male","Widowed, partnership dissolved through death",824,179
+2020,"Jura","Male","Divorced, unmarried, partnership dissolved legally",2988,179
+2020,"Jura","Female","Single",14897,179
+2020,"Jura","Female","Married, in a registered partnership",14986,179
+2020,"Jura","Female","Widowed, partnership dissolved through death",3630,179
+2020,"Jura","Female","Divorced, unmarried, partnership dissolved legally",3717,179
+2021,"Switzerland","Male","Single",2108096,17159
+2021,"Switzerland","Male","Married, in a registered partnership",1821772,17159
+2021,"Switzerland","Male","Widowed, partnership dissolved through death",81400,17159
+2021,"Switzerland","Male","Divorced, unmarried, partnership dissolved legally",326519,17159
+2021,"Switzerland","Female","Single",1855603,17159
+2021,"Switzerland","Female","Married, in a registered partnership",1778193,17159
+2021,"Switzerland","Female","Widowed, partnership dissolved through death",322692,17159
+2021,"Switzerland","Female","Divorced, unmarried, partnership dissolved legally",443748,17159
+2021,"Zürich","Male","Single",395326,3053
+2021,"Zürich","Male","Married, in a registered partnership",315853,3053
+2021,"Zürich","Male","Widowed, partnership dissolved through death",13077,3053
+2021,"Zürich","Male","Divorced, unmarried, partnership dissolved legally",55907,3053
+2021,"Zürich","Female","Single",348307,3053
+2021,"Zürich","Female","Married, in a registered partnership",306392,3053
+2021,"Zürich","Female","Widowed, partnership dissolved through death",49241,3053
+2021,"Zürich","Female","Divorced, unmarried, partnership dissolved legally",80420,3053
+2021,"Bern / Berne","Male","Single",245008,1962
+2021,"Bern / Berne","Male","Married, in a registered partnership",218636,1962
+2021,"Bern / Berne","Male","Widowed, partnership dissolved through death",11156,1962
+2021,"Bern / Berne","Male","Divorced, unmarried, partnership dissolved legally",39711,1962
+2021,"Bern / Berne","Female","Single",219538,1962
+2021,"Bern / Berne","Female","Married, in a registered partnership",215538,1962
+2021,"Bern / Berne","Female","Widowed, partnership dissolved through death",43506,1962
+2021,"Bern / Berne","Female","Divorced, unmarried, partnership dissolved legally",54181,1962
+2021,"Luzern","Male","Single",103261,740
+2021,"Luzern","Male","Married, in a registered partnership",89233,740
+2021,"Luzern","Male","Widowed, partnership dissolved through death",3759,740
+2021,"Luzern","Male","Divorced, unmarried, partnership dissolved legally",13202,740
+2021,"Luzern","Female","Single",90503,740
+2021,"Luzern","Female","Married, in a registered partnership",87552,740
+2021,"Luzern","Female","Widowed, partnership dissolved through death",15056,740
+2021,"Luzern","Female","Divorced, unmarried, partnership dissolved legally",17743,740
+2021,"Uri","Male","Single",8833,59
+2021,"Uri","Male","Married, in a registered partnership",8620,59
+2021,"Uri","Male","Widowed, partnership dissolved through death",401,59
+2021,"Uri","Male","Divorced, unmarried, partnership dissolved legally",990,59
+2021,"Uri","Female","Single",7108,59
+2021,"Uri","Female","Married, in a registered partnership",8382,59
+2021,"Uri","Female","Widowed, partnership dissolved through death",1580,59
+2021,"Uri","Female","Divorced, unmarried, partnership dissolved legally",1133,59
+2021,"Schwyz","Male","Single",39451,312
+2021,"Schwyz","Male","Married, in a registered partnership",36544,312
+2021,"Schwyz","Male","Widowed, partnership dissolved through death",1508,312
+2021,"Schwyz","Male","Divorced, unmarried, partnership dissolved legally",6553,312
+2021,"Schwyz","Female","Single",31933,312
+2021,"Schwyz","Female","Married, in a registered partnership",34917,312
+2021,"Schwyz","Female","Widowed, partnership dissolved through death",5690,312
+2021,"Schwyz","Female","Divorced, unmarried, partnership dissolved legally",7083,312
+2021,"Obwalden","Male","Single",9178,66
+2021,"Obwalden","Male","Married, in a registered partnership",8631,66
+2021,"Obwalden","Male","Widowed, partnership dissolved through death",363,66
+2021,"Obwalden","Male","Divorced, unmarried, partnership dissolved legally",1279,66
+2021,"Obwalden","Female","Single",7752,66
+2021,"Obwalden","Female","Married, in a registered partnership",8356,66
+2021,"Obwalden","Female","Widowed, partnership dissolved through death",1469,66
+2021,"Obwalden","Female","Divorced, unmarried, partnership dissolved legally",1403,66
+2021,"Nidwalden","Male","Single",10521,76
+2021,"Nidwalden","Male","Married, in a registered partnership",9716,76
+2021,"Nidwalden","Male","Widowed, partnership dissolved through death",450,76
+2021,"Nidwalden","Male","Divorced, unmarried, partnership dissolved legally",1790,76
+2021,"Nidwalden","Female","Single",8414,76
+2021,"Nidwalden","Female","Married, in a registered partnership",9422,76
+2021,"Nidwalden","Female","Widowed, partnership dissolved through death",1625,76
+2021,"Nidwalden","Female","Divorced, unmarried, partnership dissolved legally",1936,76
+2021,"Glarus","Male","Single",9650,70
+2021,"Glarus","Male","Married, in a registered partnership",9108,70
+2021,"Glarus","Male","Widowed, partnership dissolved through death",431,70
+2021,"Glarus","Male","Divorced, unmarried, partnership dissolved legally",1621,70
+2021,"Glarus","Female","Single",7826,70
+2021,"Glarus","Female","Married, in a registered partnership",8772,70
+2021,"Glarus","Female","Widowed, partnership dissolved through death",1864,70
+2021,"Glarus","Female","Divorced, unmarried, partnership dissolved legally",1914,70
+2021,"Zug","Male","Single",30674,223
+2021,"Zug","Male","Married, in a registered partnership",29301,223
+2021,"Zug","Male","Widowed, partnership dissolved through death",1083,223
+2021,"Zug","Male","Divorced, unmarried, partnership dissolved legally",4679,223
+2021,"Zug","Female","Single",26560,223
+2021,"Zug","Female","Married, in a registered partnership",27937,223
+2021,"Zug","Female","Widowed, partnership dissolved through death",3955,223
+2021,"Zug","Female","Divorced, unmarried, partnership dissolved legally",5593,223
+2021,"Fribourg / Freiburg","Male","Single",82207,719
+2021,"Fribourg / Freiburg","Male","Married, in a registered partnership",67527,719
+2021,"Fribourg / Freiburg","Male","Widowed, partnership dissolved through death",2748,719
+2021,"Fribourg / Freiburg","Male","Divorced, unmarried, partnership dissolved legally",12591,719
+2021,"Fribourg / Freiburg","Female","Single",72151,719
+2021,"Fribourg / Freiburg","Female","Married, in a registered partnership",65918,719
+2021,"Fribourg / Freiburg","Female","Widowed, partnership dissolved through death",10959,719
+2021,"Fribourg / Freiburg","Female","Divorced, unmarried, partnership dissolved legally",15730,719
+2021,"Solothurn","Male","Single",64280,545
+2021,"Solothurn","Male","Married, in a registered partnership",61414,545
+2021,"Solothurn","Male","Widowed, partnership dissolved through death",3032,545
+2021,"Solothurn","Male","Divorced, unmarried, partnership dissolved legally",11299,545
+2021,"Solothurn","Female","Single",54691,545
+2021,"Solothurn","Female","Married, in a registered partnership",60029,545
+2021,"Solothurn","Female","Widowed, partnership dissolved through death",11069,545
+2021,"Solothurn","Female","Divorced, unmarried, partnership dissolved legally",14393,545
+2021,"Basel-Stadt","Male","Single",50096,358
+2021,"Basel-Stadt","Male","Married, in a registered partnership",35759,358
+2021,"Basel-Stadt","Male","Widowed, partnership dissolved through death",1891,358
+2021,"Basel-Stadt","Male","Divorced, unmarried, partnership dissolved legally",7646,358
+2021,"Basel-Stadt","Female","Single",46722,358
+2021,"Basel-Stadt","Female","Married, in a registered partnership",34545,358
+2021,"Basel-Stadt","Female","Widowed, partnership dissolved through death",7832,358
+2021,"Basel-Stadt","Female","Divorced, unmarried, partnership dissolved legally",11521,358
+2021,"Basel-Landschaft","Male","Single",63832,520
+2021,"Basel-Landschaft","Male","Married, in a registered partnership",65925,520
+2021,"Basel-Landschaft","Male","Widowed, partnership dissolved through death",3376,520
+2021,"Basel-Landschaft","Male","Divorced, unmarried, partnership dissolved legally",10500,520
+2021,"Basel-Landschaft","Female","Single",56399,520
+2021,"Basel-Landschaft","Female","Married, in a registered partnership",65122,520
+2021,"Basel-Landschaft","Female","Widowed, partnership dissolved through death",12464,520
+2021,"Basel-Landschaft","Female","Divorced, unmarried, partnership dissolved legally",15190,520
+2021,"Schaffhausen","Male","Single",18896,159
+2021,"Schaffhausen","Male","Married, in a registered partnership",18605,159
+2021,"Schaffhausen","Male","Widowed, partnership dissolved through death",897,159
+2021,"Schaffhausen","Male","Divorced, unmarried, partnership dissolved legally",3206,159
+2021,"Schaffhausen","Female","Single",16061,159
+2021,"Schaffhausen","Female","Married, in a registered partnership",18234,159
+2021,"Schaffhausen","Female","Widowed, partnership dissolved through death",3618,159
+2021,"Schaffhausen","Female","Divorced, unmarried, partnership dissolved legally",4471,159
+2021,"Appenzell Ausserrhoden","Male","Single",12984,91
+2021,"Appenzell Ausserrhoden","Male","Married, in a registered partnership",12157,91
+2021,"Appenzell Ausserrhoden","Male","Widowed, partnership dissolved through death",556,91
+2021,"Appenzell Ausserrhoden","Male","Divorced, unmarried, partnership dissolved legally",2296,91
+2021,"Appenzell Ausserrhoden","Female","Single",10801,91
+2021,"Appenzell Ausserrhoden","Female","Married, in a registered partnership",11896,91
+2021,"Appenzell Ausserrhoden","Female","Widowed, partnership dissolved through death",2208,91
+2021,"Appenzell Ausserrhoden","Female","Divorced, unmarried, partnership dissolved legally",2687,91
+2021,"Appenzell Innerrhoden","Male","Single",4125,28
+2021,"Appenzell Innerrhoden","Male","Married, in a registered partnership",3582,28
+2021,"Appenzell Innerrhoden","Male","Widowed, partnership dissolved through death",162,28
+2021,"Appenzell Innerrhoden","Male","Divorced, unmarried, partnership dissolved legally",520,28
+2021,"Appenzell Innerrhoden","Female","Single",3262,28
+2021,"Appenzell Innerrhoden","Female","Married, in a registered partnership",3477,28
+2021,"Appenzell Innerrhoden","Female","Widowed, partnership dissolved through death",693,28
+2021,"Appenzell Innerrhoden","Female","Divorced, unmarried, partnership dissolved legally",539,28
+2021,"St. Gallen","Male","Single",123805,921
+2021,"St. Gallen","Male","Married, in a registered partnership",113095,921
+2021,"St. Gallen","Male","Widowed, partnership dissolved through death",4911,921
+2021,"St. Gallen","Male","Divorced, unmarried, partnership dissolved legally",18824,921
+2021,"St. Gallen","Female","Single",103840,921
+2021,"St. Gallen","Female","Married, in a registered partnership",110504,921
+2021,"St. Gallen","Female","Widowed, partnership dissolved through death",19385,921
+2021,"St. Gallen","Female","Divorced, unmarried, partnership dissolved legally",24841,921
+2021,"Graubünden / Grigioni / Grischun","Male","Single",46431,329
+2021,"Graubünden / Grigioni / Grischun","Male","Married, in a registered partnership",44537,329
+2021,"Graubünden / Grigioni / Grischun","Male","Widowed, partnership dissolved through death",2234,329
+2021,"Graubünden / Grigioni / Grischun","Male","Divorced, unmarried, partnership dissolved legally",7840,329
+2021,"Graubünden / Grigioni / Grischun","Female","Single",39752,329
+2021,"Graubünden / Grigioni / Grischun","Female","Married, in a registered partnership",42652,329
+2021,"Graubünden / Grigioni / Grischun","Female","Widowed, partnership dissolved through death",8506,329
+2021,"Graubünden / Grigioni / Grischun","Female","Divorced, unmarried, partnership dissolved legally",9418,329
+2021,"Aargau","Male","Single",164418,1482
+2021,"Aargau","Male","Married, in a registered partnership",156553,1482
+2021,"Aargau","Male","Widowed, partnership dissolved through death",6609,1482
+2021,"Aargau","Male","Divorced, unmarried, partnership dissolved legally",25820,1482
+2021,"Aargau","Female","Single",139282,1482
+2021,"Aargau","Female","Married, in a registered partnership",152751,1482
+2021,"Aargau","Female","Widowed, partnership dissolved through death",24312,1482
+2021,"Aargau","Female","Divorced, unmarried, partnership dissolved legally",33279,1482
+2021,"Thurgau","Male","Single",66525,523
+2021,"Thurgau","Male","Married, in a registered partnership",63673,523
+2021,"Thurgau","Male","Widowed, partnership dissolved through death",2652,523
+2021,"Thurgau","Male","Divorced, unmarried, partnership dissolved legally",11292,523
+2021,"Thurgau","Female","Single",55661,523
+2021,"Thurgau","Female","Married, in a registered partnership",62087,523
+2021,"Thurgau","Female","Widowed, partnership dissolved through death",10126,523
+2021,"Thurgau","Female","Divorced, unmarried, partnership dissolved legally",13938,523
+2021,"Ticino","Male","Single",79774,705
+2021,"Ticino","Male","Married, in a registered partnership",74553,705
+2021,"Ticino","Male","Widowed, partnership dissolved through death",3867,705
+2021,"Ticino","Male","Divorced, unmarried, partnership dissolved legally",13250,705
+2021,"Ticino","Female","Single",71586,705
+2021,"Ticino","Female","Married, in a registered partnership",72736,705
+2021,"Ticino","Female","Widowed, partnership dissolved through death",17440,705
+2021,"Ticino","Female","Divorced, unmarried, partnership dissolved legally",18966,705
+2021,"Vaud","Male","Single",208630,1624
+2021,"Vaud","Male","Married, in a registered partnership",159043,1624
+2021,"Vaud","Male","Widowed, partnership dissolved through death",6310,1624
+2021,"Vaud","Male","Divorced, unmarried, partnership dissolved legally",30270,1624
+2021,"Vaud","Female","Single",190384,1624
+2021,"Vaud","Female","Married, in a registered partnership",156451,1624
+2021,"Vaud","Female","Widowed, partnership dissolved through death",27656,1624
+2021,"Vaud","Female","Divorced, unmarried, partnership dissolved legally",44131,1624
+2021,"Valais / Wallis","Male","Single",82150,710
+2021,"Valais / Wallis","Male","Married, in a registered partnership",75192,710
+2021,"Valais / Wallis","Male","Widowed, partnership dissolved through death",3616,710
+2021,"Valais / Wallis","Male","Divorced, unmarried, partnership dissolved legally",14497,710
+2021,"Valais / Wallis","Female","Single",72182,710
+2021,"Valais / Wallis","Female","Married, in a registered partnership",73097,710
+2021,"Valais / Wallis","Female","Widowed, partnership dissolved through death",14930,710
+2021,"Valais / Wallis","Female","Divorced, unmarried, partnership dissolved legally",17503,710
+2021,"Neuchâtel","Male","Single",43105,435
+2021,"Neuchâtel","Male","Married, in a registered partnership",33465,435
+2021,"Neuchâtel","Male","Widowed, partnership dissolved through death",1786,435
+2021,"Neuchâtel","Male","Divorced, unmarried, partnership dissolved legally",8032,435
+2021,"Neuchâtel","Female","Single",37968,435
+2021,"Neuchâtel","Female","Married, in a registered partnership",33090,435
+2021,"Neuchâtel","Female","Widowed, partnership dissolved through death",7518,435
+2021,"Neuchâtel","Female","Divorced, unmarried, partnership dissolved legally",11196,435
+2021,"Genève","Male","Single",127317,1272
+2021,"Genève","Male","Married, in a registered partnership",96071,1272
+2021,"Genève","Male","Widowed, partnership dissolved through death",3692,1272
+2021,"Genève","Male","Divorced, unmarried, partnership dissolved legally",19817,1272
+2021,"Genève","Female","Single",121886,1272
+2021,"Genève","Female","Married, in a registered partnership",93515,1272
+2021,"Genève","Female","Widowed, partnership dissolved through death",16422,1272
+2021,"Genève","Female","Divorced, unmarried, partnership dissolved legally",30691,1272
+2021,"Jura","Male","Single",17619,177
+2021,"Jura","Male","Married, in a registered partnership",14979,177
+2021,"Jura","Male","Widowed, partnership dissolved through death",833,177
+2021,"Jura","Male","Divorced, unmarried, partnership dissolved legally",3087,177
+2021,"Jura","Female","Single",15034,177
+2021,"Jura","Female","Married, in a registered partnership",14821,177
+2021,"Jura","Female","Widowed, partnership dissolved through death",3568,177
+2021,"Jura","Female","Divorced, unmarried, partnership dissolved legally",3848,177
+2022,"Switzerland","Male","Single",2141428,16201
+2022,"Switzerland","Male","Married, in a registered partnership",1824072,16201
+2022,"Switzerland","Male","Widowed, partnership dissolved through death",81967,16201
+2022,"Switzerland","Male","Divorced, unmarried, partnership dissolved legally",332055,16201
+2022,"Switzerland","Female","Single",1882623,16201
+2022,"Switzerland","Female","Married, in a registered partnership",1779516,16201
+2022,"Switzerland","Female","Widowed, partnership dissolved through death",321427,16201
+2022,"Switzerland","Female","Divorced, unmarried, partnership dissolved legally",451487,16201
+2022,"Zürich","Male","Single",402662,2785
+2022,"Zürich","Male","Married, in a registered partnership",316522,2785
+2022,"Zürich","Male","Widowed, partnership dissolved through death",13111,2785
+2022,"Zürich","Male","Divorced, unmarried, partnership dissolved legally",56464,2785
+2022,"Zürich","Female","Single",354051,2785
+2022,"Zürich","Female","Married, in a registered partnership",306865,2785
+2022,"Zürich","Female","Widowed, partnership dissolved through death",48949,2785
+2022,"Zürich","Female","Divorced, unmarried, partnership dissolved legally",81195,2785
+2022,"Bern / Berne","Male","Single",247307,1908
+2022,"Bern / Berne","Male","Married, in a registered partnership",217888,1908
+2022,"Bern / Berne","Male","Widowed, partnership dissolved through death",11237,1908
+2022,"Bern / Berne","Male","Divorced, unmarried, partnership dissolved legally",40301,1908
+2022,"Bern / Berne","Female","Single",221715,1908
+2022,"Bern / Berne","Female","Married, in a registered partnership",214855,1908
+2022,"Bern / Berne","Female","Widowed, partnership dissolved through death",43048,1908
+2022,"Bern / Berne","Female","Divorced, unmarried, partnership dissolved legally",54942,1908
+2022,"Luzern","Male","Single",105029,731
+2022,"Luzern","Male","Married, in a registered partnership",89582,731
+2022,"Luzern","Male","Widowed, partnership dissolved through death",3776,731
+2022,"Luzern","Male","Divorced, unmarried, partnership dissolved legally",13625,731
+2022,"Luzern","Female","Single",91726,731
+2022,"Luzern","Female","Married, in a registered partnership",87811,731
+2022,"Luzern","Female","Widowed, partnership dissolved through death",15069,731
+2022,"Luzern","Female","Divorced, unmarried, partnership dissolved legally",18217,731
+2022,"Uri","Male","Single",8888,47
+2022,"Uri","Male","Married, in a registered partnership",8675,47
+2022,"Uri","Male","Widowed, partnership dissolved through death",403,47
+2022,"Uri","Male","Divorced, unmarried, partnership dissolved legally",1040,47
+2022,"Uri","Female","Single",7138,47
+2022,"Uri","Female","Married, in a registered partnership",8432,47
+2022,"Uri","Female","Widowed, partnership dissolved through death",1570,47
+2022,"Uri","Female","Divorced, unmarried, partnership dissolved legally",1170,47
+2022,"Schwyz","Male","Single",39818,306
+2022,"Schwyz","Male","Married, in a registered partnership",36644,306
+2022,"Schwyz","Male","Widowed, partnership dissolved through death",1528,306
+2022,"Schwyz","Male","Divorced, unmarried, partnership dissolved legally",6728,306
+2022,"Schwyz","Female","Single",32207,306
+2022,"Schwyz","Female","Married, in a registered partnership",35046,306
+2022,"Schwyz","Female","Widowed, partnership dissolved through death",5708,306
+2022,"Schwyz","Female","Divorced, unmarried, partnership dissolved legally",7233,306
+2022,"Obwalden","Male","Single",9232,66
+2022,"Obwalden","Male","Married, in a registered partnership",8642,66
+2022,"Obwalden","Male","Widowed, partnership dissolved through death",366,66
+2022,"Obwalden","Male","Divorced, unmarried, partnership dissolved legally",1333,66
+2022,"Obwalden","Female","Single",7872,66
+2022,"Obwalden","Female","Married, in a registered partnership",8358,66
+2022,"Obwalden","Female","Widowed, partnership dissolved through death",1459,66
+2022,"Obwalden","Female","Divorced, unmarried, partnership dissolved legally",1436,66
+2022,"Nidwalden","Male","Single",10678,85
+2022,"Nidwalden","Male","Married, in a registered partnership",9776,85
+2022,"Nidwalden","Male","Widowed, partnership dissolved through death",456,85
+2022,"Nidwalden","Male","Divorced, unmarried, partnership dissolved legally",1865,85
+2022,"Nidwalden","Female","Single",8562,85
+2022,"Nidwalden","Female","Married, in a registered partnership",9482,85
+2022,"Nidwalden","Female","Widowed, partnership dissolved through death",1608,85
+2022,"Nidwalden","Female","Divorced, unmarried, partnership dissolved legally",1980,85
+2022,"Glarus","Male","Single",9740,79
+2022,"Glarus","Male","Married, in a registered partnership",9148,79
+2022,"Glarus","Male","Widowed, partnership dissolved through death",415,79
+2022,"Glarus","Male","Divorced, unmarried, partnership dissolved legally",1669,79
+2022,"Glarus","Female","Single",7890,79
+2022,"Glarus","Female","Married, in a registered partnership",8785,79
+2022,"Glarus","Female","Widowed, partnership dissolved through death",1845,79
+2022,"Glarus","Female","Divorced, unmarried, partnership dissolved legally",1975,79
+2022,"Zug","Male","Single",31211,207
+2022,"Zug","Male","Married, in a registered partnership",29481,207
+2022,"Zug","Male","Widowed, partnership dissolved through death",1102,207
+2022,"Zug","Male","Divorced, unmarried, partnership dissolved legally",4773,207
+2022,"Zug","Female","Single",26749,207
+2022,"Zug","Female","Married, in a registered partnership",28155,207
+2022,"Zug","Female","Widowed, partnership dissolved through death",3992,207
+2022,"Zug","Female","Divorced, unmarried, partnership dissolved legally",5693,207
+2022,"Fribourg / Freiburg","Male","Single",84051,656
+2022,"Fribourg / Freiburg","Male","Married, in a registered partnership",67778,656
+2022,"Fribourg / Freiburg","Male","Widowed, partnership dissolved through death",2808,656
+2022,"Fribourg / Freiburg","Male","Divorced, unmarried, partnership dissolved legally",12920,656
+2022,"Fribourg / Freiburg","Female","Single",73632,656
+2022,"Fribourg / Freiburg","Female","Married, in a registered partnership",66126,656
+2022,"Fribourg / Freiburg","Female","Widowed, partnership dissolved through death",10967,656
+2022,"Fribourg / Freiburg","Female","Divorced, unmarried, partnership dissolved legally",16151,656
+2022,"Solothurn","Male","Single",65039,530
+2022,"Solothurn","Male","Married, in a registered partnership",61644,530
+2022,"Solothurn","Male","Widowed, partnership dissolved through death",3020,530
+2022,"Solothurn","Male","Divorced, unmarried, partnership dissolved legally",11444,530
+2022,"Solothurn","Female","Single",55373,530
+2022,"Solothurn","Female","Married, in a registered partnership",60197,530
+2022,"Solothurn","Female","Widowed, partnership dissolved through death",11038,530
+2022,"Solothurn","Female","Divorced, unmarried, partnership dissolved legally",14612,530
+2022,"Basel-Stadt","Male","Single",50828,362
+2022,"Basel-Stadt","Male","Married, in a registered partnership",35497,362
+2022,"Basel-Stadt","Male","Widowed, partnership dissolved through death",1893,362
+2022,"Basel-Stadt","Male","Divorced, unmarried, partnership dissolved legally",7697,362
+2022,"Basel-Stadt","Female","Single",47332,362
+2022,"Basel-Stadt","Female","Married, in a registered partnership",34313,362
+2022,"Basel-Stadt","Female","Widowed, partnership dissolved through death",7655,362
+2022,"Basel-Stadt","Female","Divorced, unmarried, partnership dissolved legally",11534,362
+2022,"Basel-Landschaft","Male","Single",64607,520
+2022,"Basel-Landschaft","Male","Married, in a registered partnership",65697,520
+2022,"Basel-Landschaft","Male","Widowed, partnership dissolved through death",3383,520
+2022,"Basel-Landschaft","Male","Divorced, unmarried, partnership dissolved legally",10748,520
+2022,"Basel-Landschaft","Female","Single",57192,520
+2022,"Basel-Landschaft","Female","Married, in a registered partnership",64858,520
+2022,"Basel-Landschaft","Female","Widowed, partnership dissolved through death",12454,520
+2022,"Basel-Landschaft","Female","Divorced, unmarried, partnership dissolved legally",15459,520
+2022,"Schaffhausen","Male","Single",19359,157
+2022,"Schaffhausen","Male","Married, in a registered partnership",18765,157
+2022,"Schaffhausen","Male","Widowed, partnership dissolved through death",897,157
+2022,"Schaffhausen","Male","Divorced, unmarried, partnership dissolved legally",3291,157
+2022,"Schaffhausen","Female","Single",16339,157
+2022,"Schaffhausen","Female","Married, in a registered partnership",18312,157
+2022,"Schaffhausen","Female","Widowed, partnership dissolved through death",3627,157
+2022,"Schaffhausen","Female","Divorced, unmarried, partnership dissolved legally",4613,157
+2022,"Appenzell Ausserrhoden","Male","Single",13131,99
+2022,"Appenzell Ausserrhoden","Male","Married, in a registered partnership",12126,99
+2022,"Appenzell Ausserrhoden","Male","Widowed, partnership dissolved through death",564,99
+2022,"Appenzell Ausserrhoden","Male","Divorced, unmarried, partnership dissolved legally",2293,99
+2022,"Appenzell Ausserrhoden","Female","Single",10885,99
+2022,"Appenzell Ausserrhoden","Female","Married, in a registered partnership",11875,99
+2022,"Appenzell Ausserrhoden","Female","Widowed, partnership dissolved through death",2181,99
+2022,"Appenzell Ausserrhoden","Female","Divorced, unmarried, partnership dissolved legally",2702,99
+2022,"Appenzell Innerrhoden","Male","Single",4134,22
+2022,"Appenzell Innerrhoden","Male","Married, in a registered partnership",3579,22
+2022,"Appenzell Innerrhoden","Male","Widowed, partnership dissolved through death",169,22
+2022,"Appenzell Innerrhoden","Male","Divorced, unmarried, partnership dissolved legally",525,22
+2022,"Appenzell Innerrhoden","Female","Single",3286,22
+2022,"Appenzell Innerrhoden","Female","Married, in a registered partnership",3475,22
+2022,"Appenzell Innerrhoden","Female","Widowed, partnership dissolved through death",686,22
+2022,"Appenzell Innerrhoden","Female","Divorced, unmarried, partnership dissolved legally",561,22
+2022,"St. Gallen","Male","Single",126297,912
+2022,"St. Gallen","Male","Married, in a registered partnership",113928,912
+2022,"St. Gallen","Male","Widowed, partnership dissolved through death",4985,912
+2022,"St. Gallen","Male","Divorced, unmarried, partnership dissolved legally",19296,912
+2022,"St. Gallen","Female","Single",105481,912
+2022,"St. Gallen","Female","Married, in a registered partnership",111081,912
+2022,"St. Gallen","Female","Widowed, partnership dissolved through death",19459,912
+2022,"St. Gallen","Female","Divorced, unmarried, partnership dissolved legally",25397,912
+2022,"Graubünden / Grigioni / Grischun","Male","Single",46978,336
+2022,"Graubünden / Grigioni / Grischun","Male","Married, in a registered partnership",44504,336
+2022,"Graubünden / Grigioni / Grischun","Male","Widowed, partnership dissolved through death",2234,336
+2022,"Graubünden / Grigioni / Grischun","Male","Divorced, unmarried, partnership dissolved legally",8039,336
+2022,"Graubünden / Grigioni / Grischun","Female","Single",40033,336
+2022,"Graubünden / Grigioni / Grischun","Female","Married, in a registered partnership",42597,336
+2022,"Graubünden / Grigioni / Grischun","Female","Widowed, partnership dissolved through death",8507,336
+2022,"Graubünden / Grigioni / Grischun","Female","Divorced, unmarried, partnership dissolved legally",9636,336
+2022,"Aargau","Male","Single",166974,1231
+2022,"Aargau","Male","Married, in a registered partnership",157719,1231
+2022,"Aargau","Male","Widowed, partnership dissolved through death",6740,1231
+2022,"Aargau","Male","Divorced, unmarried, partnership dissolved legally",26290,1231
+2022,"Aargau","Female","Single",141314,1231
+2022,"Aargau","Female","Married, in a registered partnership",153797,1231
+2022,"Aargau","Female","Widowed, partnership dissolved through death",24354,1231
+2022,"Aargau","Female","Divorced, unmarried, partnership dissolved legally",33983,1231
+2022,"Thurgau","Male","Single",67610,516
+2022,"Thurgau","Male","Married, in a registered partnership",64251,516
+2022,"Thurgau","Male","Widowed, partnership dissolved through death",2708,516
+2022,"Thurgau","Male","Divorced, unmarried, partnership dissolved legally",11469,516
+2022,"Thurgau","Female","Single",56560,516
+2022,"Thurgau","Female","Married, in a registered partnership",62516,516
+2022,"Thurgau","Female","Widowed, partnership dissolved through death",10201,516
+2022,"Thurgau","Female","Divorced, unmarried, partnership dissolved legally",14321,516
+2022,"Ticino","Male","Single",80732,686
+2022,"Ticino","Male","Married, in a registered partnership",74178,686
+2022,"Ticino","Male","Widowed, partnership dissolved through death",3929,686
+2022,"Ticino","Male","Divorced, unmarried, partnership dissolved legally",13495,686
+2022,"Ticino","Female","Single",72463,686
+2022,"Ticino","Female","Married, in a registered partnership",72395,686
+2022,"Ticino","Female","Widowed, partnership dissolved through death",17452,686
+2022,"Ticino","Female","Divorced, unmarried, partnership dissolved legally",19372,686
+2022,"Vaud","Male","Single",212344,1664
+2022,"Vaud","Male","Married, in a registered partnership",158817,1664
+2022,"Vaud","Male","Widowed, partnership dissolved through death",6302,1664
+2022,"Vaud","Male","Divorced, unmarried, partnership dissolved legally",30695,1664
+2022,"Vaud","Female","Single",193636,1664
+2022,"Vaud","Female","Married, in a registered partnership",156181,1664
+2022,"Vaud","Female","Widowed, partnership dissolved through death",27379,1664
+2022,"Vaud","Female","Divorced, unmarried, partnership dissolved legally",44992,1664
+2022,"Valais / Wallis","Male","Single",83940,638
+2022,"Valais / Wallis","Male","Married, in a registered partnership",75341,638
+2022,"Valais / Wallis","Male","Widowed, partnership dissolved through death",3675,638
+2022,"Valais / Wallis","Male","Divorced, unmarried, partnership dissolved legally",14852,638
+2022,"Valais / Wallis","Female","Single",73370,638
+2022,"Valais / Wallis","Female","Married, in a registered partnership",73147,638
+2022,"Valais / Wallis","Female","Widowed, partnership dissolved through death",14991,638
+2022,"Valais / Wallis","Female","Divorced, unmarried, partnership dissolved legally",17920,638
+2022,"Neuchâtel","Male","Single",43656,400
+2022,"Neuchâtel","Male","Married, in a registered partnership",33098,400
+2022,"Neuchâtel","Male","Widowed, partnership dissolved through death",1745,400
+2022,"Neuchâtel","Male","Divorced, unmarried, partnership dissolved legally",8153,400
+2022,"Neuchâtel","Female","Single",38460,400
+2022,"Neuchâtel","Female","Married, in a registered partnership",32709,400
+2022,"Neuchâtel","Female","Widowed, partnership dissolved through death",7405,400
+2022,"Neuchâtel","Female","Divorced, unmarried, partnership dissolved legally",11338,400
+2022,"Genève","Male","Single",129417,1117
+2022,"Genève","Male","Married, in a registered partnership",95935,1117
+2022,"Genève","Male","Widowed, partnership dissolved through death",3694,1117
+2022,"Genève","Male","Divorced, unmarried, partnership dissolved legally",19938,1117
+2022,"Genève","Female","Single",124245,1117
+2022,"Genève","Female","Married, in a registered partnership",93449,1117
+2022,"Genève","Female","Widowed, partnership dissolved through death",16289,1117
+2022,"Genève","Female","Divorced, unmarried, partnership dissolved legally",31108,1117
+2022,"Jura","Male","Single",17766,141
+2022,"Jura","Male","Married, in a registered partnership",14857,141
+2022,"Jura","Male","Widowed, partnership dissolved through death",827,141
+2022,"Jura","Male","Divorced, unmarried, partnership dissolved legally",3112,141
+2022,"Jura","Female","Single",15112,141
+2022,"Jura","Female","Married, in a registered partnership",14699,141
+2022,"Jura","Female","Widowed, partnership dissolved through death",3534,141
+2022,"Jura","Female","Divorced, unmarried, partnership dissolved legally",3947,141
+2023,"Switzerland","Male","Single",2195839,15598
+2023,"Switzerland","Male","Married, in a registered partnership",1834076,15598
+2023,"Switzerland","Male","Widowed, partnership dissolved through death",82717,15598
+2023,"Switzerland","Male","Divorced, unmarried, partnership dissolved legally",338355,15598
+2023,"Switzerland","Female","Single",1932152,15598
+2023,"Switzerland","Female","Married, in a registered partnership",1793567,15598
+2023,"Switzerland","Female","Widowed, partnership dissolved through death",321173,15598
+2023,"Switzerland","Female","Divorced, unmarried, partnership dissolved legally",463040,15598
+2023,"Zürich","Male","Single",412543,2722
+2023,"Zürich","Male","Married, in a registered partnership",318134,2722
+2023,"Zürich","Male","Widowed, partnership dissolved through death",13117,2722
+2023,"Zürich","Male","Divorced, unmarried, partnership dissolved legally",57095,2722
+2023,"Zürich","Female","Single",363604,2722
+2023,"Zürich","Female","Married, in a registered partnership",309307,2722
+2023,"Zürich","Female","Widowed, partnership dissolved through death",48911,2722
+2023,"Zürich","Female","Divorced, unmarried, partnership dissolved legally",82560,2722
+2023,"Bern / Berne","Male","Single",252003,1764
+2023,"Bern / Berne","Male","Married, in a registered partnership",217971,1764
+2023,"Bern / Berne","Male","Widowed, partnership dissolved through death",11315,1764
+2023,"Bern / Berne","Male","Divorced, unmarried, partnership dissolved legally",40887,1764
+2023,"Bern / Berne","Female","Single",226539,1764
+2023,"Bern / Berne","Female","Married, in a registered partnership",215616,1764
+2023,"Bern / Berne","Female","Widowed, partnership dissolved through death",42786,1764
+2023,"Bern / Berne","Female","Divorced, unmarried, partnership dissolved legally",56233,1764
+2023,"Luzern","Male","Single",107790,657
+2023,"Luzern","Male","Married, in a registered partnership",90432,657
+2023,"Luzern","Male","Widowed, partnership dissolved through death",3834,657
+2023,"Luzern","Male","Divorced, unmarried, partnership dissolved legally",13941,657
+2023,"Luzern","Female","Single",94035,657
+2023,"Luzern","Female","Married, in a registered partnership",88767,657
+2023,"Luzern","Female","Widowed, partnership dissolved through death",15121,657
+2023,"Luzern","Female","Divorced, unmarried, partnership dissolved legally",18788,657
+2023,"Uri","Male","Single",9111,47
+2023,"Uri","Male","Married, in a registered partnership",8743,47
+2023,"Uri","Male","Widowed, partnership dissolved through death",401,47
+2023,"Uri","Male","Divorced, unmarried, partnership dissolved legally",1087,47
+2023,"Uri","Female","Single",7256,47
+2023,"Uri","Female","Married, in a registered partnership",8511,47
+2023,"Uri","Female","Widowed, partnership dissolved through death",1587,47
+2023,"Uri","Female","Divorced, unmarried, partnership dissolved legally",1234,47
+2023,"Schwyz","Male","Single",40518,273
+2023,"Schwyz","Male","Married, in a registered partnership",36920,273
+2023,"Schwyz","Male","Widowed, partnership dissolved through death",1554,273
+2023,"Schwyz","Male","Divorced, unmarried, partnership dissolved legally",6880,273
+2023,"Schwyz","Female","Single",32879,273
+2023,"Schwyz","Female","Married, in a registered partnership",35312,273
+2023,"Schwyz","Female","Widowed, partnership dissolved through death",5813,273
+2023,"Schwyz","Female","Divorced, unmarried, partnership dissolved legally",7515,273
+2023,"Obwalden","Male","Single",9413,61
+2023,"Obwalden","Male","Married, in a registered partnership",8663,61
+2023,"Obwalden","Male","Widowed, partnership dissolved through death",384,61
+2023,"Obwalden","Male","Divorced, unmarried, partnership dissolved legally",1386,61
+2023,"Obwalden","Female","Single",7979,61
+2023,"Obwalden","Female","Married, in a registered partnership",8428,61
+2023,"Obwalden","Female","Widowed, partnership dissolved through death",1495,61
+2023,"Obwalden","Female","Divorced, unmarried, partnership dissolved legally",1518,61
+2023,"Nidwalden","Male","Single",10804,62
+2023,"Nidwalden","Male","Married, in a registered partnership",9871,62
+2023,"Nidwalden","Male","Widowed, partnership dissolved through death",468,62
+2023,"Nidwalden","Male","Divorced, unmarried, partnership dissolved legally",1874,62
+2023,"Nidwalden","Female","Single",8740,62
+2023,"Nidwalden","Female","Married, in a registered partnership",9594,62
+2023,"Nidwalden","Female","Widowed, partnership dissolved through death",1631,62
+2023,"Nidwalden","Female","Divorced, unmarried, partnership dissolved legally",2021,62
+2023,"Glarus","Male","Single",9974,60
+2023,"Glarus","Male","Married, in a registered partnership",9167,60
+2023,"Glarus","Male","Widowed, partnership dissolved through death",423,60
+2023,"Glarus","Male","Divorced, unmarried, partnership dissolved legally",1705,60
+2023,"Glarus","Female","Single",8114,60
+2023,"Glarus","Female","Married, in a registered partnership",8804,60
+2023,"Glarus","Female","Widowed, partnership dissolved through death",1815,60
+2023,"Glarus","Female","Divorced, unmarried, partnership dissolved legally",2047,60
+2023,"Zug","Male","Single",31696,205
+2023,"Zug","Male","Married, in a registered partnership",29505,205
+2023,"Zug","Male","Widowed, partnership dissolved through death",1090,205
+2023,"Zug","Male","Divorced, unmarried, partnership dissolved legally",4883,205
+2023,"Zug","Female","Single",27231,205
+2023,"Zug","Female","Married, in a registered partnership",28235,205
+2023,"Zug","Female","Widowed, partnership dissolved through death",4024,205
+2023,"Zug","Female","Divorced, unmarried, partnership dissolved legally",5883,205
+2023,"Fribourg / Freiburg","Male","Single",86494,694
+2023,"Fribourg / Freiburg","Male","Married, in a registered partnership",68207,694
+2023,"Fribourg / Freiburg","Male","Widowed, partnership dissolved through death",2855,694
+2023,"Fribourg / Freiburg","Male","Divorced, unmarried, partnership dissolved legally",13317,694
+2023,"Fribourg / Freiburg","Female","Single",75992,694
+2023,"Fribourg / Freiburg","Female","Married, in a registered partnership",66801,694
+2023,"Fribourg / Freiburg","Female","Widowed, partnership dissolved through death",11003,694
+2023,"Fribourg / Freiburg","Female","Divorced, unmarried, partnership dissolved legally",16812,694
+2023,"Solothurn","Male","Single",66679,493
+2023,"Solothurn","Male","Married, in a registered partnership",62086,493
+2023,"Solothurn","Male","Widowed, partnership dissolved through death",3055,493
+2023,"Solothurn","Male","Divorced, unmarried, partnership dissolved legally",11728,493
+2023,"Solothurn","Female","Single",56506,493
+2023,"Solothurn","Female","Married, in a registered partnership",60707,493
+2023,"Solothurn","Female","Widowed, partnership dissolved through death",11021,493
+2023,"Solothurn","Female","Divorced, unmarried, partnership dissolved legally",15014,493
+2023,"Basel-Stadt","Male","Single",52058,305
+2023,"Basel-Stadt","Male","Married, in a registered partnership",35655,305
+2023,"Basel-Stadt","Male","Widowed, partnership dissolved through death",1845,305
+2023,"Basel-Stadt","Male","Divorced, unmarried, partnership dissolved legally",7787,305
+2023,"Basel-Stadt","Female","Single",48703,305
+2023,"Basel-Stadt","Female","Married, in a registered partnership",34659,305
+2023,"Basel-Stadt","Female","Widowed, partnership dissolved through death",7521,305
+2023,"Basel-Stadt","Female","Divorced, unmarried, partnership dissolved legally",11770,305
+2023,"Basel-Landschaft","Male","Single",66298,524
+2023,"Basel-Landschaft","Male","Married, in a registered partnership",65887,524
+2023,"Basel-Landschaft","Male","Widowed, partnership dissolved through death",3419,524
+2023,"Basel-Landschaft","Male","Divorced, unmarried, partnership dissolved legally",10948,524
+2023,"Basel-Landschaft","Female","Single",58619,524
+2023,"Basel-Landschaft","Female","Married, in a registered partnership",65267,524
+2023,"Basel-Landschaft","Female","Widowed, partnership dissolved through death",12479,524
+2023,"Basel-Landschaft","Female","Divorced, unmarried, partnership dissolved legally",15885,524
+2023,"Schaffhausen","Male","Single",20036,152
+2023,"Schaffhausen","Male","Married, in a registered partnership",18979,152
+2023,"Schaffhausen","Male","Widowed, partnership dissolved through death",891,152
+2023,"Schaffhausen","Male","Divorced, unmarried, partnership dissolved legally",3412,152
+2023,"Schaffhausen","Female","Single",16889,152
+2023,"Schaffhausen","Female","Married, in a registered partnership",18510,152
+2023,"Schaffhausen","Female","Widowed, partnership dissolved through death",3644,152
+2023,"Schaffhausen","Female","Divorced, unmarried, partnership dissolved legally",4733,152
+2023,"Appenzell Ausserrhoden","Male","Single",13336,88
+2023,"Appenzell Ausserrhoden","Male","Married, in a registered partnership",12205,88
+2023,"Appenzell Ausserrhoden","Male","Widowed, partnership dissolved through death",563,88
+2023,"Appenzell Ausserrhoden","Male","Divorced, unmarried, partnership dissolved legally",2332,88
+2023,"Appenzell Ausserrhoden","Female","Single",11114,88
+2023,"Appenzell Ausserrhoden","Female","Married, in a registered partnership",11992,88
+2023,"Appenzell Ausserrhoden","Female","Widowed, partnership dissolved through death",2200,88
+2023,"Appenzell Ausserrhoden","Female","Divorced, unmarried, partnership dissolved legally",2747,88
+2023,"Appenzell Innerrhoden","Male","Single",4220,18
+2023,"Appenzell Innerrhoden","Male","Married, in a registered partnership",3592,18
+2023,"Appenzell Innerrhoden","Male","Widowed, partnership dissolved through death",174,18
+2023,"Appenzell Innerrhoden","Male","Divorced, unmarried, partnership dissolved legally",532,18
+2023,"Appenzell Innerrhoden","Female","Single",3304,18
+2023,"Appenzell Innerrhoden","Female","Married, in a registered partnership",3516,18
+2023,"Appenzell Innerrhoden","Female","Widowed, partnership dissolved through death",672,18
+2023,"Appenzell Innerrhoden","Female","Divorced, unmarried, partnership dissolved legally",575,18
+2023,"St. Gallen","Male","Single",129158,890
+2023,"St. Gallen","Male","Married, in a registered partnership",115111,890
+2023,"St. Gallen","Male","Widowed, partnership dissolved through death",5067,890
+2023,"St. Gallen","Male","Divorced, unmarried, partnership dissolved legally",19701,890
+2023,"St. Gallen","Female","Single",107994,890
+2023,"St. Gallen","Female","Married, in a registered partnership",112409,890
+2023,"St. Gallen","Female","Widowed, partnership dissolved through death",19515,890
+2023,"St. Gallen","Female","Divorced, unmarried, partnership dissolved legally",26061,890
+2023,"Graubünden / Grigioni / Grischun","Male","Single",47793,320
+2023,"Graubünden / Grigioni / Grischun","Male","Married, in a registered partnership",44619,320
+2023,"Graubünden / Grigioni / Grischun","Male","Widowed, partnership dissolved through death",2271,320
+2023,"Graubünden / Grigioni / Grischun","Male","Divorced, unmarried, partnership dissolved legally",8234,320
+2023,"Graubünden / Grigioni / Grischun","Female","Single",40817,320
+2023,"Graubünden / Grigioni / Grischun","Female","Married, in a registered partnership",42787,320
+2023,"Graubünden / Grigioni / Grischun","Female","Widowed, partnership dissolved through death",8458,320
+2023,"Graubünden / Grigioni / Grischun","Female","Divorced, unmarried, partnership dissolved legally",9890,320
+2023,"Aargau","Male","Single",172160,1207
+2023,"Aargau","Male","Married, in a registered partnership",159888,1207
+2023,"Aargau","Male","Widowed, partnership dissolved through death",6864,1207
+2023,"Aargau","Male","Divorced, unmarried, partnership dissolved legally",27017,1207
+2023,"Aargau","Female","Single",145570,1207
+2023,"Aargau","Female","Married, in a registered partnership",155867,1207
+2023,"Aargau","Female","Widowed, partnership dissolved through death",24449,1207
+2023,"Aargau","Female","Divorced, unmarried, partnership dissolved legally",35005,1207
+2023,"Thurgau","Male","Single",69454,485
+2023,"Thurgau","Male","Married, in a registered partnership",65011,485
+2023,"Thurgau","Male","Widowed, partnership dissolved through death",2764,485
+2023,"Thurgau","Male","Divorced, unmarried, partnership dissolved legally",11640,485
+2023,"Thurgau","Female","Single",58025,485
+2023,"Thurgau","Female","Married, in a registered partnership",63412,485
+2023,"Thurgau","Female","Widowed, partnership dissolved through death",10247,485
+2023,"Thurgau","Female","Divorced, unmarried, partnership dissolved legally",14645,485
+2023,"Ticino","Male","Single",82473,592
+2023,"Ticino","Male","Married, in a registered partnership",74016,592
+2023,"Ticino","Male","Widowed, partnership dissolved through death",3993,592
+2023,"Ticino","Male","Divorced, unmarried, partnership dissolved legally",13670,592
+2023,"Ticino","Female","Single",73944,592
+2023,"Ticino","Female","Married, in a registered partnership",72440,592
+2023,"Ticino","Female","Widowed, partnership dissolved through death",17330,592
+2023,"Ticino","Female","Divorced, unmarried, partnership dissolved legally",19837,592
+2023,"Vaud","Male","Single",218765,1613
+2023,"Vaud","Male","Married, in a registered partnership",159347,1613
+2023,"Vaud","Male","Widowed, partnership dissolved through death",6331,1613
+2023,"Vaud","Male","Divorced, unmarried, partnership dissolved legally",31185,1613
+2023,"Vaud","Female","Single",199560,1613
+2023,"Vaud","Female","Married, in a registered partnership",157127,1613
+2023,"Vaud","Female","Widowed, partnership dissolved through death",27336,1613
+2023,"Vaud","Female","Divorced, unmarried, partnership dissolved legally",46014,1613
+2023,"Valais / Wallis","Male","Single",87232,719
+2023,"Valais / Wallis","Male","Married, in a registered partnership",76028,719
+2023,"Valais / Wallis","Male","Widowed, partnership dissolved through death",3714,719
+2023,"Valais / Wallis","Male","Divorced, unmarried, partnership dissolved legally",15395,719
+2023,"Valais / Wallis","Female","Single",75905,719
+2023,"Valais / Wallis","Female","Married, in a registered partnership",73829,719
+2023,"Valais / Wallis","Female","Widowed, partnership dissolved through death",14966,719
+2023,"Valais / Wallis","Female","Divorced, unmarried, partnership dissolved legally",18677,719
+2023,"Neuchâtel","Male","Single",44653,397
+2023,"Neuchâtel","Male","Married, in a registered partnership",32871,397
+2023,"Neuchâtel","Male","Widowed, partnership dissolved through death",1766,397
+2023,"Neuchâtel","Male","Divorced, unmarried, partnership dissolved legally",8259,397
+2023,"Neuchâtel","Female","Single",39242,397
+2023,"Neuchâtel","Female","Married, in a registered partnership",32561,397
+2023,"Neuchâtel","Female","Widowed, partnership dissolved through death",7354,397
+2023,"Neuchâtel","Female","Divorced, unmarried, partnership dissolved legally",11576,397
+2023,"Genève","Male","Single",133126,1123
+2023,"Genève","Male","Married, in a registered partnership",96351,1123
+2023,"Genève","Male","Widowed, partnership dissolved through death",3713,1123
+2023,"Genève","Male","Divorced, unmarried, partnership dissolved legally",20280,1123
+2023,"Genève","Female","Single",128213,1123
+2023,"Genève","Female","Married, in a registered partnership",94460,1123
+2023,"Genève","Female","Widowed, partnership dissolved through death",16266,1123
+2023,"Genève","Female","Divorced, unmarried, partnership dissolved legally",31935,1123
+2023,"Jura","Male","Single",18052,127
+2023,"Jura","Male","Married, in a registered partnership",14817,127
+2023,"Jura","Male","Widowed, partnership dissolved through death",846,127
+2023,"Jura","Male","Divorced, unmarried, partnership dissolved legally",3180,127
+2023,"Jura","Female","Single",15378,127
+2023,"Jura","Female","Married, in a registered partnership",14649,127
+2023,"Jura","Female","Widowed, partnership dissolved through death",3529,127
+2023,"Jura","Female","Divorced, unmarried, partnership dissolved legally",4065,127
+2024,"Switzerland","Male","Single",2235042,16123
+2024,"Switzerland","Male","Married, in a registered partnership",1837200,16123
+2024,"Switzerland","Male","Widowed, partnership dissolved through death",83500,16123
+2024,"Switzerland","Male","Divorced, unmarried, partnership dissolved legally",344065,16123
+2024,"Switzerland","Female","Single",1962290,16123
+2024,"Switzerland","Female","Married, in a registered partnership",1796027,16123
+2024,"Switzerland","Female","Widowed, partnership dissolved through death",320130,16123
+2024,"Switzerland","Female","Divorced, unmarried, partnership dissolved legally",471398,16123
+2024,"Zürich","Male","Single",419432,2933
+2024,"Zürich","Male","Married, in a registered partnership",318242,2933
+2024,"Zürich","Male","Widowed, partnership dissolved through death",13199,2933
+2024,"Zürich","Male","Divorced, unmarried, partnership dissolved legally",57841,2933
+2024,"Zürich","Female","Single",369268,2933
+2024,"Zürich","Female","Married, in a registered partnership",309367,2933
+2024,"Zürich","Female","Widowed, partnership dissolved through death",48672,2933
+2024,"Zürich","Female","Divorced, unmarried, partnership dissolved legally",83734,2933
+2024,"Bern / Berne","Male","Single",255806,1808
+2024,"Bern / Berne","Male","Married, in a registered partnership",217767,1808
+2024,"Bern / Berne","Male","Widowed, partnership dissolved through death",11372,1808
+2024,"Bern / Berne","Male","Divorced, unmarried, partnership dissolved legally",41446,1808
+2024,"Bern / Berne","Female","Single",229389,1808
+2024,"Bern / Berne","Female","Married, in a registered partnership",215478,1808
+2024,"Bern / Berne","Female","Widowed, partnership dissolved through death",42517,1808
+2024,"Bern / Berne","Female","Divorced, unmarried, partnership dissolved legally",57245,1808
+2024,"Luzern","Male","Single",109712,701
+2024,"Luzern","Male","Married, in a registered partnership",90878,701
+2024,"Luzern","Male","Widowed, partnership dissolved through death",3879,701
+2024,"Luzern","Male","Divorced, unmarried, partnership dissolved legally",14354,701
+2024,"Luzern","Female","Single",95498,701
+2024,"Luzern","Female","Married, in a registered partnership",89161,701
+2024,"Luzern","Female","Widowed, partnership dissolved through death",15122,701
+2024,"Luzern","Female","Divorced, unmarried, partnership dissolved legally",19305,701
+2024,"Uri","Male","Single",9219,33
+2024,"Uri","Male","Married, in a registered partnership",8808,33
+2024,"Uri","Male","Widowed, partnership dissolved through death",393,33
+2024,"Uri","Male","Divorced, unmarried, partnership dissolved legally",1112,33
+2024,"Uri","Female","Single",7321,33
+2024,"Uri","Female","Married, in a registered partnership",8566,33
+2024,"Uri","Female","Widowed, partnership dissolved through death",1583,33
+2024,"Uri","Female","Divorced, unmarried, partnership dissolved legally",1270,33
+2024,"Schwyz","Male","Single",41016,267
+2024,"Schwyz","Male","Married, in a registered partnership",37093,267
+2024,"Schwyz","Male","Widowed, partnership dissolved through death",1542,267
+2024,"Schwyz","Male","Divorced, unmarried, partnership dissolved legally",7035,267
+2024,"Schwyz","Female","Single",33232,267
+2024,"Schwyz","Female","Married, in a registered partnership",35480,267
+2024,"Schwyz","Female","Widowed, partnership dissolved through death",5845,267
+2024,"Schwyz","Female","Divorced, unmarried, partnership dissolved legally",7672,267
+2024,"Obwalden","Male","Single",9533,58
+2024,"Obwalden","Male","Married, in a registered partnership",8690,58
+2024,"Obwalden","Male","Widowed, partnership dissolved through death",398,58
+2024,"Obwalden","Male","Divorced, unmarried, partnership dissolved legally",1424,58
+2024,"Obwalden","Female","Single",8091,58
+2024,"Obwalden","Female","Married, in a registered partnership",8448,58
+2024,"Obwalden","Female","Widowed, partnership dissolved through death",1503,58
+2024,"Obwalden","Female","Divorced, unmarried, partnership dissolved legally",1566,58
+2024,"Nidwalden","Male","Single",10898,61
+2024,"Nidwalden","Male","Married, in a registered partnership",9940,61
+2024,"Nidwalden","Male","Widowed, partnership dissolved through death",472,61
+2024,"Nidwalden","Male","Divorced, unmarried, partnership dissolved legally",1885,61
+2024,"Nidwalden","Female","Single",8791,61
+2024,"Nidwalden","Female","Married, in a registered partnership",9631,61
+2024,"Nidwalden","Female","Widowed, partnership dissolved through death",1647,61
+2024,"Nidwalden","Female","Divorced, unmarried, partnership dissolved legally",2068,61
+2024,"Glarus","Male","Single",10099,61
+2024,"Glarus","Male","Married, in a registered partnership",9171,61
+2024,"Glarus","Male","Widowed, partnership dissolved through death",436,61
+2024,"Glarus","Male","Divorced, unmarried, partnership dissolved legally",1701,61
+2024,"Glarus","Female","Single",8207,61
+2024,"Glarus","Female","Married, in a registered partnership",8844,61
+2024,"Glarus","Female","Widowed, partnership dissolved through death",1799,61
+2024,"Glarus","Female","Divorced, unmarried, partnership dissolved legally",2107,61
+2024,"Zug","Male","Single",31986,187
+2024,"Zug","Male","Married, in a registered partnership",29708,187
+2024,"Zug","Male","Widowed, partnership dissolved through death",1118,187
+2024,"Zug","Male","Divorced, unmarried, partnership dissolved legally",4942,187
+2024,"Zug","Female","Single",27577,187
+2024,"Zug","Female","Married, in a registered partnership",28438,187
+2024,"Zug","Female","Widowed, partnership dissolved through death",4013,187
+2024,"Zug","Female","Divorced, unmarried, partnership dissolved legally",5943,187
+2024,"Fribourg / Freiburg","Male","Single",88664,652
+2024,"Fribourg / Freiburg","Male","Married, in a registered partnership",68416,652
+2024,"Fribourg / Freiburg","Male","Widowed, partnership dissolved through death",2883,652
+2024,"Fribourg / Freiburg","Male","Divorced, unmarried, partnership dissolved legally",13622,652
+2024,"Fribourg / Freiburg","Female","Single",77648,652
+2024,"Fribourg / Freiburg","Female","Married, in a registered partnership",66988,652
+2024,"Fribourg / Freiburg","Female","Widowed, partnership dissolved through death",11091,652
+2024,"Fribourg / Freiburg","Female","Divorced, unmarried, partnership dissolved legally",17307,652
+2024,"Solothurn","Male","Single",67855,542
+2024,"Solothurn","Male","Married, in a registered partnership",62279,542
+2024,"Solothurn","Male","Widowed, partnership dissolved through death",3093,542
+2024,"Solothurn","Male","Divorced, unmarried, partnership dissolved legally",11903,542
+2024,"Solothurn","Female","Single",57499,542
+2024,"Solothurn","Female","Married, in a registered partnership",60825,542
+2024,"Solothurn","Female","Widowed, partnership dissolved through death",10985,542
+2024,"Solothurn","Female","Divorced, unmarried, partnership dissolved legally",15304,542
+2024,"Basel-Stadt","Male","Single",53113,372
+2024,"Basel-Stadt","Male","Married, in a registered partnership",35478,372
+2024,"Basel-Stadt","Male","Widowed, partnership dissolved through death",1844,372
+2024,"Basel-Stadt","Male","Divorced, unmarried, partnership dissolved legally",7819,372
+2024,"Basel-Stadt","Female","Single",49482,372
+2024,"Basel-Stadt","Female","Married, in a registered partnership",34385,372
+2024,"Basel-Stadt","Female","Widowed, partnership dissolved through death",7367,372
+2024,"Basel-Stadt","Female","Divorced, unmarried, partnership dissolved legally",11860,372
+2024,"Basel-Landschaft","Male","Single",67376,495
+2024,"Basel-Landschaft","Male","Married, in a registered partnership",65805,495
+2024,"Basel-Landschaft","Male","Widowed, partnership dissolved through death",3492,495
+2024,"Basel-Landschaft","Male","Divorced, unmarried, partnership dissolved legally",11187,495
+2024,"Basel-Landschaft","Female","Single",59571,495
+2024,"Basel-Landschaft","Female","Married, in a registered partnership",65251,495
+2024,"Basel-Landschaft","Female","Widowed, partnership dissolved through death",12445,495
+2024,"Basel-Landschaft","Female","Divorced, unmarried, partnership dissolved legally",16167,495
+2024,"Schaffhausen","Male","Single",20511,160
+2024,"Schaffhausen","Male","Married, in a registered partnership",19175,160
+2024,"Schaffhausen","Male","Widowed, partnership dissolved through death",920,160
+2024,"Schaffhausen","Male","Divorced, unmarried, partnership dissolved legally",3492,160
+2024,"Schaffhausen","Female","Single",17388,160
+2024,"Schaffhausen","Female","Married, in a registered partnership",18682,160
+2024,"Schaffhausen","Female","Widowed, partnership dissolved through death",3628,160
+2024,"Schaffhausen","Female","Divorced, unmarried, partnership dissolved legally",4857,160
+2024,"Appenzell Ausserrhoden","Male","Single",13427,87
+2024,"Appenzell Ausserrhoden","Male","Married, in a registered partnership",12167,87
+2024,"Appenzell Ausserrhoden","Male","Widowed, partnership dissolved through death",587,87
+2024,"Appenzell Ausserrhoden","Male","Divorced, unmarried, partnership dissolved legally",2374,87
+2024,"Appenzell Ausserrhoden","Female","Single",11243,87
+2024,"Appenzell Ausserrhoden","Female","Married, in a registered partnership",11924,87
+2024,"Appenzell Ausserrhoden","Female","Widowed, partnership dissolved through death",2183,87
+2024,"Appenzell Ausserrhoden","Female","Divorced, unmarried, partnership dissolved legally",2792,87
+2024,"Appenzell Innerrhoden","Male","Single",4222,23
+2024,"Appenzell Innerrhoden","Male","Married, in a registered partnership",3636,23
+2024,"Appenzell Innerrhoden","Male","Widowed, partnership dissolved through death",180,23
+2024,"Appenzell Innerrhoden","Male","Divorced, unmarried, partnership dissolved legally",549,23
+2024,"Appenzell Innerrhoden","Female","Single",3335,23
+2024,"Appenzell Innerrhoden","Female","Married, in a registered partnership",3545,23
+2024,"Appenzell Innerrhoden","Female","Widowed, partnership dissolved through death",672,23
+2024,"Appenzell Innerrhoden","Female","Divorced, unmarried, partnership dissolved legally",592,23
+2024,"St. Gallen","Male","Single",130929,908
+2024,"St. Gallen","Male","Married, in a registered partnership",115647,908
+2024,"St. Gallen","Male","Widowed, partnership dissolved through death",5111,908
+2024,"St. Gallen","Male","Divorced, unmarried, partnership dissolved legally",20039,908
+2024,"St. Gallen","Female","Single",109262,908
+2024,"St. Gallen","Female","Married, in a registered partnership",112944,908
+2024,"St. Gallen","Female","Widowed, partnership dissolved through death",19456,908
+2024,"St. Gallen","Female","Divorced, unmarried, partnership dissolved legally",26574,908
+2024,"Graubünden / Grigioni / Grischun","Male","Single",48490,316
+2024,"Graubünden / Grigioni / Grischun","Male","Married, in a registered partnership",44584,316
+2024,"Graubünden / Grigioni / Grischun","Male","Widowed, partnership dissolved through death",2291,316
+2024,"Graubünden / Grigioni / Grischun","Male","Divorced, unmarried, partnership dissolved legally",8428,316
+2024,"Graubünden / Grigioni / Grischun","Female","Single",41088,316
+2024,"Graubünden / Grigioni / Grischun","Female","Married, in a registered partnership",42736,316
+2024,"Graubünden / Grigioni / Grischun","Female","Widowed, partnership dissolved through death",8429,316
+2024,"Graubünden / Grigioni / Grischun","Female","Divorced, unmarried, partnership dissolved legally",10075,316
+2024,"Aargau","Male","Single",175635,1238
+2024,"Aargau","Male","Married, in a registered partnership",160876,1238
+2024,"Aargau","Male","Widowed, partnership dissolved through death",6939,1238
+2024,"Aargau","Male","Divorced, unmarried, partnership dissolved legally",27547,1238
+2024,"Aargau","Female","Single",147910,1238
+2024,"Aargau","Female","Married, in a registered partnership",156666,1238
+2024,"Aargau","Female","Widowed, partnership dissolved through death",24527,1238
+2024,"Aargau","Female","Divorced, unmarried, partnership dissolved legally",35631,1238
+2024,"Thurgau","Male","Single",70927,532
+2024,"Thurgau","Male","Married, in a registered partnership",65594,532
+2024,"Thurgau","Male","Widowed, partnership dissolved through death",2803,532
+2024,"Thurgau","Male","Divorced, unmarried, partnership dissolved legally",11898,532
+2024,"Thurgau","Female","Single",59103,532
+2024,"Thurgau","Female","Married, in a registered partnership",63934,532
+2024,"Thurgau","Female","Widowed, partnership dissolved through death",10207,532
+2024,"Thurgau","Female","Divorced, unmarried, partnership dissolved legally",15017,532
+2024,"Ticino","Male","Single",83621,657
+2024,"Ticino","Male","Married, in a registered partnership",73413,657
+2024,"Ticino","Male","Widowed, partnership dissolved through death",4002,657
+2024,"Ticino","Male","Divorced, unmarried, partnership dissolved legally",13969,657
+2024,"Ticino","Female","Single",74576,657
+2024,"Ticino","Female","Married, in a registered partnership",71910,657
+2024,"Ticino","Female","Widowed, partnership dissolved through death",17213,657
+2024,"Ticino","Female","Divorced, unmarried, partnership dissolved legally",20182,657
+2024,"Vaud","Male","Single",223217,1622
+2024,"Vaud","Male","Married, in a registered partnership",159691,1622
+2024,"Vaud","Male","Widowed, partnership dissolved through death",6441,1622
+2024,"Vaud","Male","Divorced, unmarried, partnership dissolved legally",31456,1622
+2024,"Vaud","Female","Single",202990,1622
+2024,"Vaud","Female","Married, in a registered partnership",157239,1622
+2024,"Vaud","Female","Widowed, partnership dissolved through death",27154,1622
+2024,"Vaud","Female","Divorced, unmarried, partnership dissolved legally",46706,1622
+2024,"Valais / Wallis","Male","Single",89510,769
+2024,"Valais / Wallis","Male","Married, in a registered partnership",76253,769
+2024,"Valais / Wallis","Male","Widowed, partnership dissolved through death",3770,769
+2024,"Valais / Wallis","Male","Divorced, unmarried, partnership dissolved legally",15902,769
+2024,"Valais / Wallis","Female","Single",77538,769
+2024,"Valais / Wallis","Female","Married, in a registered partnership",74007,769
+2024,"Valais / Wallis","Female","Widowed, partnership dissolved through death",14961,769
+2024,"Valais / Wallis","Female","Divorced, unmarried, partnership dissolved legally",19237,769
+2024,"Neuchâtel","Male","Single",45420,358
+2024,"Neuchâtel","Male","Married, in a registered partnership",32683,358
+2024,"Neuchâtel","Male","Widowed, partnership dissolved through death",1779,358
+2024,"Neuchâtel","Male","Divorced, unmarried, partnership dissolved legally",8332,358
+2024,"Neuchâtel","Female","Single",39931,358
+2024,"Neuchâtel","Female","Married, in a registered partnership",32357,358
+2024,"Neuchâtel","Female","Widowed, partnership dissolved through death",7301,358
+2024,"Neuchâtel","Female","Divorced, unmarried, partnership dissolved legally",11708,358
+2024,"Genève","Male","Single",136112,1129
+2024,"Genève","Male","Married, in a registered partnership",96528,1129
+2024,"Genève","Male","Widowed, partnership dissolved through death",3711,1129
+2024,"Genève","Male","Divorced, unmarried, partnership dissolved legally",20558,1129
+2024,"Genève","Female","Single",130888,1129
+2024,"Genève","Female","Married, in a registered partnership",94666,1129
+2024,"Genève","Female","Widowed, partnership dissolved through death",16282,1129
+2024,"Genève","Female","Divorced, unmarried, partnership dissolved legally",32304,1129
+2024,"Jura","Male","Single",18312,154
+2024,"Jura","Male","Married, in a registered partnership",14678,154
+2024,"Jura","Male","Widowed, partnership dissolved through death",845,154
+2024,"Jura","Male","Divorced, unmarried, partnership dissolved legally",3250,154
+2024,"Jura","Female","Single",15464,154
+2024,"Jura","Female","Married, in a registered partnership",14555,154
+2024,"Jura","Female","Widowed, partnership dissolved through death",3528,154
+2024,"Jura","Female","Divorced, unmarried, partnership dissolved legally",4175,154
